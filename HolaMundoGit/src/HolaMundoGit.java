@@ -2,7 +2,11 @@
 public class HolaMundoGit {
 
 	public static void main(String[] args) {
-		// TODO Apéndice de método generado automáticamente
+		String estado = "muy bien";
+		String estado2 = "no tan bien";
+		
+		System.out.println("Estoy " + estado);
+		System.out.println("Estoy " + estado2);
 
 	}
 
